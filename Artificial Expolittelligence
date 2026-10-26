@@ -1,5 +1,3 @@
--- ChromeIntelligence
--- AI Browser Assistant with Era Customization
 
 local ChromeIntel = {}
 ChromeIntel.Version = "1.0.0"
